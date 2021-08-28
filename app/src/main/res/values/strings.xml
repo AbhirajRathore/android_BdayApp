@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Birthdaynewgr</string>
+    <string name="name">name</string>
+    <string name="enter_the_name_of_birthday_person">Enter the name of Birthday Person</string>
+    <string name="create_bday_card">Create Bday Card</string>
+</resources>
